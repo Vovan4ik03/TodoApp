@@ -18,4 +18,4 @@ TodoApp React is a simple and efficient task management application designed to 
 - 🎨SASS (SCSS) – Enhances styling with modern design techniques.  
 - 📦Local Storage – Saves tasks for persistent data management.  
 
-- # [TodoApp](https://vovan4ik1.github.io/TodoApp-Landing/)
+- # [TodoApp](https://vovan4ik1.github.io/TodoApp/)
